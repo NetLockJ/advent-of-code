@@ -37,7 +37,7 @@ init.sh is just there to create a new year's directory filled with ones for each
 
 ## 2025
 - Languages: Python
-- Days - 1-3 ... and hopefully more!
+- Days - 1-8 (not 6 part 2 yet) ... and hopefully more!
 ---
 
 <span style="color:#fdfd65;text-shadow:0 0 5px #fdfd65">Happy Coding!</span>
