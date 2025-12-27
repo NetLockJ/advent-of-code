@@ -26,4 +26,4 @@ route = ("svr", "dac", "fft", "out")
 if count_paths("fft", "dac") > 0:
     route = ("svr", "fft", "dac", "out")
 
-print(prod(count_paths(s, e) for s , e in list(zip(route, route[1:]))))
+print(prod(count_paths(s, e) for s, e in list(zip(route, route[1:]))))
